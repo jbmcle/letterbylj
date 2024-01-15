@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "88654194119",
+    "firebase_url": "https://fashion-inspo-default-rtdb.firebaseio.com",
+    "project_id": "fashion-inspo",
+    "storage_bucket": "fashion-inspo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88654194119:android:94fd86f81033acf5bea5e2",
+        "android_client_info": {
+          "package_name": "app.msfaithlj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88654194119-fr917dh9kt3kcoofebfichg28et1idvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZ_Myp4tV31hbA9PBR9AwFm7i5_4EUsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88654194119-fr917dh9kt3kcoofebfichg28et1idvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88654194119:android:f38adee2828a648fbea5e2",
+        "android_client_info": {
+          "package_name": "com.diversionaltraffic.fashioninspo.outfitideas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88654194119-fr917dh9kt3kcoofebfichg28et1idvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZ_Myp4tV31hbA9PBR9AwFm7i5_4EUsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88654194119-fr917dh9kt3kcoofebfichg28et1idvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
